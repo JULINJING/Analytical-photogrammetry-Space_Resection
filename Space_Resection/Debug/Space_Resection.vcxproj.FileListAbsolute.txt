@@ -1,0 +1,2 @@
+C:\Users\huangzitao\source\repos\Space_Resection\Debug\Space_Resection.exe
+C:\Users\huangzitao\source\repos\Space_Resection\Debug\Space_Resection.pdb
